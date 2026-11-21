@@ -1,6 +1,6 @@
-MICROGUÍA v0.2 — DEMO NO VALIDADA
-1. Descomprime el ZIP y abre index.html en Safari o Chrome. No se necesita instalar nada para la prueba local.
-2. Inicio > Bacteriemias y sepsis > Hemocultivos. Los otros síndromes son marcadores de posición.
-3. Para probar PWA: desde Terminal, entra en la carpeta MICROGUIA y ejecuta python3 -m http.server 8000. Abre http://localhost:8000. La instalación en móviles requiere un servidor HTTPS autorizado (no probado aquí). El modo offline conserva los documentos y la interfaz; no el vídeo.
-4. Los PDF son copias sin cambios. Las PNG son previsualizaciones. El MP4 ha sido sustituido por hemo(1).mp4; la decodificación completa no presenta errores. Pendiente de validar el contenido clínico.
-5. No se ha publicado nada. Revisar volumen y antisepsia de hemocultivos, transporte, vigencia de documentos y autorización institucional antes del uso real. Faltan material, conservación y contactos. Nombre del hospital utilizado como identificación provisional.
+MICROGUÍA v0.4 — Demo de interfaz 3D mate en todas las pantallas.
+
+Abre index.html usando Safari (Archivo > Abrir archivo) o publica el CONTENIDO de esta carpeta en la raíz del repositorio de GitHub Pages.
+Mantiene material y vídeo de hemocultivos de la versión 0.3.
+NO ES UN PROTOCOLO ASISTENCIAL VALIDADO.
+La app actualmente publicada en GitHub no se actualiza al descargar este paquete.
