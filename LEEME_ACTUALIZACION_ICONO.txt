@@ -1,0 +1,17 @@
+MICROGUIA v0.4.2 — ICONO APROBADO
+
+Contiene únicamente los cambios del icono con respecto a v0.4.
+
+Archivos para añadir o reemplazar en la RAIZ del repositorio:
+- index.html (solo se modifican enlaces en HEAD)
+- manifest.webmanifest (iconos PWA)
+- sw.js (actualización de caché a microguia-v042)
+- apple-touch-icon.png (nuevo)
+- favicon-32.png (nuevo)
+- icon-192.png (reemplaza versión anterior)
+- icon-512.png (reemplaza versión anterior)
+
+No se cambia ningún PDF, vídeo, imagen de síndrome ni lógica de navegación.
+Subir preferentemente con GitHub Desktop o git, para reemplazar archivos existentes correctamente.
+La versión pública no se modifica hasta confirmar los cambios en GitHub.
+Si el icono de pantalla de inicio sigue antiguo, quitar el acceso y volver a añadirlo desde Safari.
